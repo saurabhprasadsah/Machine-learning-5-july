@@ -1,3 +1,3 @@
 # Machine-learning-
 
-# update soon 😍
+# jupyter notebook
