@@ -1,4 +1,4 @@
 # Machine-learning-
 
-# jupyter notebook
+# `jupyter` notebook
 # start
