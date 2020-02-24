@@ -1,7 +1,7 @@
 # Machine-learning-
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 ```
-# python 3
+# python 
 # jupyte notebook
 # screen shot 
 # Tes😎ll cases
