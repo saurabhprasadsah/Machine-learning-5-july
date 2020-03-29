@@ -22,9 +22,9 @@
 # jupyte notebook
 # screen sh0t 
 # Test c0ses
-```
+````````
 
 <img src="https://raw.githubusercontent.com/naman14/Hacktoberfest-Android/master/screenshots/screenshot1.png" width="360" height="640">
 # corona effect
 
-# SOCIAL DISTANCING BRO
+# Be Safe and Happy
